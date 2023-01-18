@@ -33,7 +33,7 @@ python3 script.py domain.com
 Example 💻
 -------
 ```bash
-python3 script.py example.com`
+python3 script.py example.com
 ```
 Output 📊
 ------
